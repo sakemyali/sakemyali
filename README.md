@@ -7,7 +7,7 @@
 
 ## Tools
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.deva">
     <img src="https://skillicons.dev/icons?i=linux,git,docker,aws&perline=50" />
     </a>
 </p>

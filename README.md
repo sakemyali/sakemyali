@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakemyali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
+<img src="https://github-profile-trophy.vercel.app/?username=sakemyali&theme=darkhub&no-frame=true&column=-1" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakemyali/sakemyali/output/pacman-contribution-graph-dark.svg">

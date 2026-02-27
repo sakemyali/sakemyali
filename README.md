@@ -15,8 +15,6 @@
 ---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakemyali&theme=darkhub&no-frame=true&column=-1" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakemyali/sakemyali/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakemyali/sakemyali/output/pacman-contribution-graph.svg">

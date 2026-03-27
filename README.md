@@ -26,6 +26,12 @@
 | Interactive Mandelbrot, Julia and Burning Ship renderer in `C` | Sorting a stack using another stack in `C` |
 -->
 
+<p align="center">
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakemyali&theme=nord_bright" alt="sakemyali's GitHub stats" />
+  </a>
+</p>
+
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">

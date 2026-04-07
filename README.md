@@ -1,8 +1,10 @@
+<!--
 <p align="center">
   <a href="https://42cv.dev/mosakura">
     <img src="https://42cv.dev/api/badge/cmmsce5ac000004joq7n5hnoi/stats?cursusId=21&coalitionId=carbon" alt="mosakura's 42 stats" />
   </a>
 </p>
+-->
 <!--
 # Projects
 ## Hackathons
